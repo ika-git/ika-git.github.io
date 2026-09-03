@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+  font-family: "Noto Sans KR", -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
   background: #f7f7f8;
   color: #222;
   line-height: 1.6;
@@ -34,7 +34,8 @@ section h2 {
 }
 
 section ul {
-  padding-left: 20px;
+  list-style: none;
+  padding-left: 0;
   margin: 0;
 }
 
