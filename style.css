@@ -17,6 +17,7 @@ header h1 {
   margin: 0 0 4px;
   font-size: 32px;
   font-weight: 700;
+  -webkit-text-stroke: 0.7px currentColor;
 }
 
 header .subtitle {
@@ -30,7 +31,7 @@ section {
 
 section h2 {
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 700;
   border-bottom: 1px solid #ddd;
   padding-bottom: 6px;
   margin-bottom: 12px;
