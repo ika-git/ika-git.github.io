@@ -4,6 +4,7 @@ body {
   background: #f7f7f8;
   color: #222;
   line-height: 1.6;
+  font-weight: 400;
 }
 
 .container {
@@ -15,6 +16,7 @@ body {
 header h1 {
   margin: 0 0 4px;
   font-size: 32px;
+  font-weight: 400;
 }
 
 header .subtitle {
@@ -28,6 +30,7 @@ section {
 
 section h2 {
   font-size: 18px;
+  font-weight: 400;
   border-bottom: 1px solid #ddd;
   padding-bottom: 6px;
   margin-bottom: 12px;
