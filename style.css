@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+  font-family: "Nanum Gothic Coding", -apple-system, "Segoe UI", "Malgun Gothic", monospace;
   background: #f7f7f8;
   color: #444;
   line-height: 1.6;
@@ -16,7 +16,7 @@ body {
 header h1 {
   margin: 0 0 4px;
   font-size: 32px;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 header .subtitle {
@@ -46,6 +46,7 @@ section li {
   display: flex;
   align-items: baseline;
   gap: 8px;
+  font-size: 14px;
 }
 
 section li::before {
