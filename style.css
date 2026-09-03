@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Song Myung", -apple-system, "Segoe UI", "Malgun Gothic", serif;
+  font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
   background: #f7f7f8;
   color: #444;
   line-height: 1.6;
@@ -46,7 +46,6 @@ section li {
   display: flex;
   align-items: baseline;
   gap: 8px;
-  font-family: "Noto Serif KR", serif;
 }
 
 section li::before {
@@ -60,7 +59,6 @@ section li::before {
 .empty {
   color: #999;
   font-style: italic;
-  font-family: "Noto Serif KR", serif;
 }
 
 footer {
@@ -69,5 +67,4 @@ footer {
   color: #888;
   border-top: 1px solid #ddd;
   padding-top: 16px;
-  font-family: "Noto Serif KR", serif;
 }
