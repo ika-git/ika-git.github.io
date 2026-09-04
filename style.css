@@ -58,9 +58,8 @@ section li::before {
 }
 
 .empty {
-  color: #999;
-  font-style: italic;
-  font-size: 22px;
+  color: #444;
+  font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
 }
 
 footer {
